@@ -1,2 +1,9 @@
 
-It is the script for the init of the project 
+It is the script for the init of the project
+
+
+--> import the librairies from other project
+
+Lib 1
+Lib 2
+etc ... 
